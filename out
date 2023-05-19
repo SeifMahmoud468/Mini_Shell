@@ -1,0 +1,19 @@
+total 332
+drwxrwxr-x 3 seif seif  4096 Nov  6 15:57 .
+drwxr-xr-x 5 seif seif  4096 Nov  6 02:34 ..
+-rw-rw-r-- 1 seif seif  6119 Nov  5 13:24 command.cc
+-rw-rw-r-- 1 seif seif   751 Nov  5 12:01 command.h
+-rw-rw-r-- 1 seif seif 38616 Nov  6 15:51 command.o
+drwxrwxr-x 2 seif seif  4096 Nov  5 22:28 examples
+-rwx------ 1 seif seif   856 Nov  6 15:54 input
+-rw-rw-r-- 1 seif seif 45349 Nov  6 15:51 lex.yy.c
+-rw-rw-r-- 1 seif seif 44656 Nov  6 15:51 lex.yy.o
+-rw-rw-r-- 1 seif seif   736 Nov  6 15:57 log.txt
+-rw-rw-r-- 1 seif seif   338 Oct 19 17:00 Makefile
+-rwx------ 1 seif seif     0 Nov  6 15:57 out
+-rwxrwxr-x 1 seif seif 75704 Nov  6 15:56 shell
+-rw-rw-r-- 1 seif seif   611 Nov  5 11:48 shell.l
+-rw-rw-r-- 1 seif seif  2305 Nov  6 15:55 shell.y
+-rw-rw-r-- 1 seif seif 46004 Nov  6 15:56 y.tab.c
+-rw-rw-r-- 1 seif seif  3265 Nov  6 15:56 y.tab.h
+-rw-rw-r-- 1 seif seif 28088 Nov  6 15:56 y.tab.o
